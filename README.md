@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @07-ship-stevw
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @07-ship-stevw -Steven
+- 👀 I’m interested in ... Information technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... app development, web development projects and machine learning 
 - 📫 How to reach me ... njeristeven3@gmail.com
